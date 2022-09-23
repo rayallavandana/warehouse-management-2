@@ -1,7 +1,7 @@
 # *warehouse-management-2*
 It's an extension of Warehouse-management-2.
 You can find warehouse-management-1
-[here](https://github.com/rayallavandana/warehouse-management-1/blob/branch/README.md)
+[here](https://github.com/rayallavandana/warehouse-management-1/)
 
 It's an another java console application.
 Firstly,it will ask for the maximum number of places or spaces present in the shelf.
